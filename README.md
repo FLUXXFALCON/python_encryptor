@@ -25,7 +25,7 @@ pip install cryptography
 ### Adım Adım Kullanım
 
 1. **UltraObfuscator** sınıfını kullanarak bir Python dosyasını obfuscate edebilirsiniz.
-2. `grok_conf.py` betiğini çalıştırarak obfuscation işlemini gerçekleştirebilirsiniz.
+2. `encryptor.py` betiğini çalıştırarak obfuscation işlemini gerçekleştirebilirsiniz.
 
 #### Komut Satırı Kullanımı
 
